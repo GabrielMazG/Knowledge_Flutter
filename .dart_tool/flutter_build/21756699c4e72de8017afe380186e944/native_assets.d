@@ -1,0 +1,1 @@
+ /Users/g.maz/Desktop/Repos/Knowledge_Flutter/.dart_tool/flutter_build/21756699c4e72de8017afe380186e944/native_assets.yaml: 
